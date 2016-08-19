@@ -1,7 +1,8 @@
 # scrapy-evasion
 ## Description
 This repository contains scrapy project preconfigured for blocking-mechanism evasion. Sometimes websites block scrapers undeservingly, and I tried to solve this problem.
-### Remember to crawl responsibly and not cause DoS!
+>Remember to crawl responsibly and not cause DoS!
+
 ## Requirements
 Scrapy (http://scrapy.org/)
 Stem (https://stem.torproject.org/)
