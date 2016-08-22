@@ -4,10 +4,11 @@ This repository contains scrapy project preconfigured for blocking-mechanism eva
 >Remember to crawl responsibly and not cause DoS!
 
 ## Requirements
-Scrapy (http://scrapy.org/)
-Stem (https://stem.torproject.org/)
-TOR (https://www.torproject.org/)
-Privoxy (https://www.privoxy.org/) or another http-to-socks proxy
+* Scrapy (http://scrapy.org/)
+* Stem (https://stem.torproject.org/)
+* TOR (https://www.torproject.org/)
+* Privoxy (https://www.privoxy.org/) or another http-to-socks proxy
+
 ## Installation
 First, create the **torrc** file in TOR folder. This file should contain following string:
 `ControlPort 9051`
